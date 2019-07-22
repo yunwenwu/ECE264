@@ -1,0 +1,7 @@
+12345abcde %=%
+one: 10 two: 0xa three: 0b1010 four: c
+one: h two: 0b1010 three: 0xa four: 10
+test string abcd hahaha123
+test money $123.56 ___ -$765.32
+test money $123.10 ___ -$3.19
+test money $2147483647.10 ___ -$2147483648.90
