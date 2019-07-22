@@ -6,6 +6,7 @@
 #include <stdio.h>
 #include "bmp.h"
 
+######!!!score 84.44
 BMPImage* read_bmp(FILE* fp, const char** a_error) {
     if(fp == NULL || ferror(fp)) {
         *a_error = strerror(errno);
